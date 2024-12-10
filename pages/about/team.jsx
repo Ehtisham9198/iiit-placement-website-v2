@@ -124,94 +124,8 @@ export default function PlacementTeam() {
             </p>
           </div>
         </div>
-        <div className="row">
-          <div className="col-12 col-sm-2">
-            <Image
-              src="/tpcell/team/Abhirup.jpg"
-              height={290}
-              width={250}
-              objectFit="cover"
-            />
-          </div>
-          <div className="col-8">
-            <p>
-              <strong>Abhirup Panda</strong>
-              <p>
-                Computer Engineering, Batch of 2025
-                <div>Phone: +91 8260858426</div>
-                <Link href="mailto:b521006@iiit-bh.ac.in">
-                  Email – b521006@iiit-bh.ac.in
-                </Link>
-              </p>
-            </p>
-          </div>
-        </div>
-        <div className="row">
-          <div className="col-12 col-sm-2">
-            <Image
-              src="/tpcell/team/Prabhu.jpg"
-              height={290}
-              width={250}
-              objectFit="cover"
-            />
-          </div>
-          <div className="col-10">
-            <p>
-              <strong>Prabhu Prasad Sahoo</strong>
-              <p>
-                Electronics and Communication Engineering, Batch of 2025
-                <div>Phone: +91 9861849028</div>
-                <Link href="mailto:b221038@iiit-bh.ac.in">
-                  Email – b221038@iiit-bh.ac.in
-                </Link>
-              </p>
-            </p>
-          </div>
-        </div>
-        <div className="row">
-          <div className="col-12 col-sm-2">
-            <Image
-              src="/tpcell/team/Ishan.png"
-              height={290}
-              width={250}
-              objectFit="cover"
-            />
-          </div>
-          <div className="col-10">
-            <p>
-              <strong>Ishan Singh</strong>
-              <p>
-                Computer Science Engineering, Batch of 2026
-                <div>Phone: +91 6370781726</div>
-                <Link href="mailto:b122056@iiit-bh.ac.in">
-                  Email – b122056@iiit-bh.ac.in
-                </Link>
-              </p>
-            </p>
-          </div>
-        </div>
-        <div className="row">
-          <div className="col-12 col-sm-2">
-            <Image
-              src="/tpcell/team/Akchat.jpg"
-              height={290}
-              width={250}
-              objectFit="cover"
-            />
-          </div>
-          <div className="col-10">
-            <p>
-              <strong>Akchat Verma</strong>
-              <p>
-                Computer Science Engineering, Batch of 2026
-                <div>Phone: +91 9674993747</div>
-                <Link href="mailto:B322006@iiit-bh.ac.in">
-                  Email – b322006@iiit-bh.ac.in
-                </Link>
-              </p>
-            </p>
-          </div>
-        </div>
+
+
         <div className="row">
           <div className="col-12 col-sm-2">
             <Image
@@ -234,6 +148,8 @@ export default function PlacementTeam() {
             </p>
           </div>
         </div>
+
+
         <div className="row">
           <div className="col-12 col-sm-2">
             <Image
@@ -255,73 +171,10 @@ export default function PlacementTeam() {
               </p>
             </p>
           </div>
-        </div>
-        <div className="row">
-          <div className="col-12 col-sm-2">
-            <Image
-              src="/tpcell/team/Lingam.png"
-              height={290}
-              width={250}
-              objectFit="cover"
-            />
-          </div>
-          <div className="col-10">
-            <p>
-              <strong>Yaswanth Lingam</strong>
-              <p>
-              Electrical and Electronics Engineering, Batch of 2025
-                <div>Phone: +91 7978099637</div>
-                <Link href="mailto:b321021@iiit-bh.ac.in">
-                  Email – b321021@iiit-bh.ac.in
-                </Link>
-              </p>
-            </p>
-          </div>
-        </div>
-        <div className="row">
-          <div className="col-12 col-sm-2">
-            <Image
-              src="/tpcell/team/sushobhan.jpg"
-              height={290}
-              width={250}
-              objectFit="cover"
-            />
-          </div>
-          <div className="col-10">
-            <p>
-              <strong>Sushobhan Tripathy</strong>
-              <p>
-              Information Technology, Batch of 2025
-                <div>Phone: +91 8763460642</div>
-                <Link href="mailto:b421058@iiit-bh.ac.in">
-                  Email – b421058@iiit-bh.ac.in
-                </Link>
-              </p>
-            </p>
-          </div>
-        </div>
-        <div className="row">
-          <div className="col-12 col-sm-2">
-            <Image
-              src="/tpcell/team/Subrat.png"
-              height={290}
-              width={250}
-              objectFit="cover"
-            />
-          </div>
-          <div className="col-10">
-            <p>
-              <strong>Subrat Kumar Swain </strong>
-              <p>
-              Information Technology, Batch of 2025
-                <div>Phone: +91 8480446596</div>
-                <Link href="mailto:b421055@iiit-bh.ac.in">
-                  Email – b421055@iiit-bh.ac.in
-                </Link>
-              </p>
-            </p>
-          </div>
-        </div>
+       </div>
+      
+   
+      
         <div className="row">
           <div className="col-12 col-sm-2">
             <Image
@@ -344,94 +197,8 @@ export default function PlacementTeam() {
             </p>
           </div>
         </div>
-        <div className="row">
-          <div className="col-12 col-sm-2">
-            <Image
-              src="/tpcell/team/Akankshya.jpg"
-              height={290}
-              width={250}
-              objectFit="cover"
-            />
-          </div>
-          <div className="col-10">
-            <p>
-              <strong>Akankshya Pradhan</strong>
-              <p>
-              Information Technology, Batch of 2026
-                <div>Phone: +91 8260603766</div>
-                <Link href="mailto:b422005@iiit-bh.ac.in">
-                  Email – b422005@iiit-bh.ac.in
-                </Link>
-              </p>
-            </p>
-          </div>
-        </div>
-        <div className="row">
-          <div className="col-12 col-sm-2">
-            <Image
-              src="/tpcell/team/Priyanshu.jpg"
-              height={290}
-              width={250}
-              objectFit="cover"
-            />
-          </div>
-          <div className="col-10">
-            <p>
-              <strong>Priyanshu Paramjit Dash </strong>
-              <p>
-              Electrical and Electronics Engineering, Batch of 2025
-                <div>Phone: +91 8260785535</div>
-                <Link href="mailto:b321057@iiit-bh.ac.in">
-                  Email – b321057@iiit-bh.ac.in
-                </Link>
-              </p>
-            </p>
-          </div>
-        </div>
-        <div className="row">
-          <div className="col-12 col-sm-2">
-            <Image
-              src="/tpcell/team/Nidan.jpg"
-              height={290}
-              width={250}
-              objectFit="cover"
-            />
-          </div>
-          <div className="col-10">
-            <p>
-              <strong>Nidan Gupta</strong>
-              <p>
-              Electrical and Electronics Engineering, Batch of 2026
-                <div>Phone: +91 6307213696</div>
-                <Link href="mailto:B322031@iiit-bh.ac.in">
-                  Email – b322031@iiit-bh.ac.in
-                </Link>
-              </p>
-            </p>
-          </div>
-        </div>
-        <div className="row">
-          <div className="col-12 col-sm-2">
-            <Image
-              src="/tpcell/team/Aditya.jpg"
-              height={290}
-              width={250}
-              objectFit="cover"
-            />
-          </div>
-          <div className="col-10">
-            <p>
-              <strong>Aditya Bikram Jena</strong>
-              <p>
-              Computer Science Engineering, Batch of 2025
-                <div>Phone: +91 9866435177</div>
-                <Link href="mailto:b121004@iiit-bh.ac.in">
-                  Email – b121004@iiit-bh.ac.in
-                </Link>
-              </p>
-            </p>
-          </div>
-        </div>
+         
+    
         <div className="row">
           <div className="col-12 col-sm-2">
             <Image
@@ -454,6 +221,7 @@ export default function PlacementTeam() {
             </p>
           </div>
         </div>
+
         <div className="row">
           <div className="col-12 col-sm-2">
             <Image
@@ -476,28 +244,8 @@ export default function PlacementTeam() {
             </p>
           </div>
         </div>
-        <div className="row">
-          <div className="col-12 col-sm-2">
-            <Image
-              src="/tpcell/team/Prity.jpg"
-              height={290}
-              width={250}
-              objectFit="cover"
-            />
-          </div>
-          <div className="col-10">
-            <p>
-              <strong>Prity Mishra</strong>
-              <p>
-              Electronics and Communication Engineering, Batch of 2026
-                <div>Phone: +91 6371190090</div>
-                <Link href="mailto:b222036@iiit-bh.ac.in">
-                  Email – b222036@iiit-bh.ac.in
-                </Link>
-              </p>
-            </p>
-          </div>
-        </div>
+        
+
         <div className="row">
           <div className="col-12 col-sm-2">
             <Image
@@ -520,28 +268,8 @@ export default function PlacementTeam() {
             </p>
           </div>
         </div>
-        <div className="row">
-          <div className="col-12 col-sm-2">
-            <Image
-              src="/tpcell/team/Priyanshu.jpeg"
-              height={290}
-              width={250}
-              objectFit="cover"
-            />
-          </div>
-          <div className="col-10">
-            <p>
-              <strong>Priyanshu Dwibedi</strong>
-              <p>
-              Electronics and Communication Engineering, Batch of 2026
-                <div>Phone: +91 8889703636</div>
-                <Link href="mailto:b222037@iiit-bh.ac.in">
-                  Email – b222037@iiit-bh.ac.in
-                </Link>
-              </p>
-            </p>
-          </div>
-        </div>
+
+      
         <div className="row">
           <div className="col-12 col-sm-2">
             <Image
@@ -564,6 +292,8 @@ export default function PlacementTeam() {
             </p>
           </div>
         </div>
+
+
         <div className="row">
           <div className="col-12 col-sm-2">
             <Image
@@ -586,6 +316,8 @@ export default function PlacementTeam() {
             </p>
           </div>
         </div>
+
+
         <div className="row">
           <div className="col-12 col-sm-2">
             <Image
@@ -608,6 +340,8 @@ export default function PlacementTeam() {
             </p>
           </div>
         </div>
+
+
         <div className="row">
           <div className="col-12 col-sm-2">
             <Image
@@ -630,28 +364,9 @@ export default function PlacementTeam() {
             </p>
           </div>
         </div>
-        <div className="row">
-          <div className="col-12 col-sm-2">
-            <Image
-              src="/tpcell/team/manyata.webp"
-              height={290}
-              width={250}
-              objectFit="cover"
-            />
-          </div>
-          <div className="col-10">
-            <p>
-              <strong>Manyata Patra</strong>
-              <p>
-              Computer Science Engineering, Batch of 2026
-                <div>Phone: +91 9439922542</div>
-                <Link href="mailto:b122068@iiit-bh.ac.in">
-                  Email – b122068@iiit-bh.ac.in
-                </Link>
-              </p>
-            </p>
-          </div>
-        </div>
+
+
+      
         <div className="row">
           <div className="col-12 col-sm-2">
             <Image
@@ -674,50 +389,9 @@ export default function PlacementTeam() {
             </p>
           </div>
         </div>
-        <div className="row">
-          <div className="col-12 col-sm-2">
-            <Image
-              src="/tpcell/team/sachin.webp"
-              height={290}
-              width={250}
-              objectFit="cover"
-            />
-          </div>
-          <div className="col-10">
-            <p>
-              <strong>Sachin Lovanshi</strong>
-              <p>
-              Computer Science Engineering, Batch of 2026
-                <div>Phone: +91 7987471703</div>
-                <Link href="mailto:b122097@iiit-bh.ac.in">
-                  Email – b122097@iiit-bh.ac.in
-                </Link>
-              </p>
-            </p>
-          </div>
-        </div>
-        <div className="row">
-          <div className="col-12 col-sm-2">
-            <Image
-              src="/tpcell/team/rishav.webp"
-              height={290}
-              width={250}
-              objectFit="cover"
-            />
-          </div>
-          <div className="col-10">
-            <p>
-              <strong>Rishav Chourasia</strong>
-              <p>
-              Computer Science Engineering, Batch of 2026
-                <div>Phone: +91 6370263361</div>
-                <Link href="mailto:b122092@iiit-bh.ac.in">
-                  Email – b122092@iiit-bh.ac.in
-                </Link>
-              </p>
-            </p>
-          </div>
-        </div>
+
+    
+  
         <div className="row">
           <div className="col-12 col-sm-2">
             <Image
@@ -740,28 +414,9 @@ export default function PlacementTeam() {
             </p>
           </div>
         </div>
-        <div className="row">
-          <div className="col-12 col-sm-2">
-            <Image
-              src="/tpcell/team/kriti.webp"
-              height={290}
-              width={250}
-              objectFit="cover"
-            />
-          </div>
-          <div className="col-10">
-            <p>
-              <strong>Kriti Mishra</strong>
-              <p>
-              Electrical and Electronics Engineering, Batch of 2026
-                <div>Phone: +91 9903906572</div>
-                <Link href="mailto:b322024@iiit-bh.ac.in">
-                  Email – b322024@iiit-bh.ac.in
-                </Link>
-              </p>
-            </p>
-          </div>
-        </div>
+
+
+
         <div className="row">
           <div className="col-12 col-sm-2">
             <Image
@@ -784,6 +439,55 @@ export default function PlacementTeam() {
             </p>
           </div>
         </div>
+
+        <div className="row">
+          <div className="col-12 col-sm-2">
+            <Image
+               src="/tpcell/team/tejasweePc.webp"
+              height={290}
+              width={250}
+              objectFit="cover"
+            />
+          </div>
+          <div className="col-10">
+            <p>
+              <strong>Tejaswee Kumar Singh</strong>
+              <p>
+              Computer Science Engineering, Batch of 2026
+                <div>Phone: +91 7205147088</div>
+                <Link href="mailto:b122021@iiit-bh.ac.in">
+                  Email – b1220125@iiit-bh.ac.in
+                </Link>
+              </p>
+            </p>
+          </div>
+        </div>
+
+        
+        <div className="row">
+          <div className="col-12 col-sm-2">
+            <Image
+               src="/tpcell/team/pinaki.jpg"
+              height={290}
+              width={250}
+              objectFit="cover"
+            />
+          </div>
+          <div className="col-10">
+            <p>
+              <strong>K.S. Pinaki Sahu</strong>
+              <p>
+              Computer Engineering, Batch of 2026
+                <div>Phone: +91 8221831052</div>
+                <Link href="mailto:b122021@iiit-bh.ac.in">
+                  Email – b522021@iiit-bh.ac.in
+                </Link>
+              </p>
+            </p>
+          </div>
+        </div>
+  
+    
       </div>
     </div>
   );
